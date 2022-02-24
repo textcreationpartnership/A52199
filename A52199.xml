@@ -1,0 +1,364 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Acts and laws, passed by the Great and General Court or Assembly of Their Majesties province of the Massachusetts-Bay, in New-England begun at Boston, the eighth day of November, 1693, and continued by adjournment unto Wednesday the fourteenth day of February following : being the second sessions.</title>
+            <title>Laws, etc.</title>
+            <author>Massachusetts.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1694</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 8 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A52199</idno>
+            <idno type="STC">Wing M954A</idno>
+            <idno type="STC">ESTC R15931</idno>
+            <idno type="EEBO-CITATION">12951638</idno>
+            <idno type="OCLC">ocm 12951638</idno>
+            <idno type="VID">95938</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A52199)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 95938)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 720:18)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Acts and laws, passed by the Great and General Court or Assembly of Their Majesties province of the Massachusetts-Bay, in New-England begun at Boston, the eighth day of November, 1693, and continued by adjournment unto Wednesday the fourteenth day of February following : being the second sessions.</title>
+                  <title>Laws, etc.</title>
+                  <author>Massachusetts.</author>
+               </titleStmt>
+               <extent>[2], 49-60 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bartholomew Green, and sold by Samuel Phillips,</publisher>
+                  <pubPlace>Boston :</pubPlace>
+                  <date>1694.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Marginal notes.</note>
+                  <note>cf. Ford, W.C., and A. Matthews. A bibliography of the laws of the Massachusetts Bay, 1907, p. 23.</note>
+                  <note>Reproduction of original in Huntington Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Law --  Massachusetts.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-02</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-02</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>Megan Marion</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:95938:1" rendition="simple:additions"/>
+            <p>ACTS AND LAWS, Paſſed by the Great and General Court or Aſſembly of Their Majeſties Province of the Maſſachuſetts-Bay, in NEW-ENGLAND.</p>
+            <p>Begun at <hi>Boſton,</hi> the Eighth Day of <hi>November,</hi> 1693. And Continued by Adjournment unto <hi>Wedneſday</hi> the Fourteenth Day of <hi>February</hi> following: Being the Second Seſſions.</p>
+            <p>
+               <hi>Anno Regni Guilielmi, et Mariae, Regis et Reginae, Angliae, Scotiae, Franciae, et Hiberniae, Sexto.</hi>
+            </p>
+            <figure>
+               <figDesc>royal blazon or coat of arms</figDesc>
+               <p>RR</p>
+               <p>HONI SOIT QVI MAL Y PENSE</p>
+               <p>DIEV ET MON DROIT</p>
+            </figure>
+            <p>
+               <hi>BOSTON.</hi> Printed by <hi>Bartholomew Green,</hi> and Sold by <hi>Samuel Phillips.</hi> 1694.</p>
+         </div>
+      </front>
+      <body>
+         <div type="act">
+            <pb facs="tcp:95938:2"/>
+            <pb n="49" facs="tcp:95938:2" rendition="simple:additions"/>
+            <head>Anno Regni Regis et Reginae, GULIELMI <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> MARIÆ, Sexto.</head>
+            <head>AN ACT, For the better Rule and Government of the Indians in their ſeveral Places and Plantations.</head>
+            <argument>
+               <p>TO the intent that the Indians may be forwarded in Civility and Chriſtianity, and that <hi>Drunkenneſs</hi> and other Vices be the more effectually Suppreſſed amongſt them.</p>
+            </argument>
+            <p>
+               <hi>Be it Enacted and Ordained by the Governour, Council, and Repreſentatives, in General Court Aſſembled, and it is Enacted by the Authority of the ſame,</hi>
+            </p>
+            <p>
+               <note place="margin">Commiſſio<g ref="char:EOLhyphen"/>ners to be ap<g ref="char:EOLhyphen"/>pointed in ſeveral parts to have the more parti<g ref="char:EOLhyphen"/>cular care &amp; Government of the Indians</note> That His Excellency the Governour, by and with the advice and conſent of the Council, may and is hereby impowred to appoint and Commiſſionate one or more diſcreet Perſons within ſeveral parts of this Province, to have the inſpection and more particular care and Go<g ref="char:EOLhyphen"/>vernment of the <hi>Indians</hi> in their reſpective Plantations; and to have, uſe and Exerciſe the power of a Juſtice of the Peace over them in all matters Civil and Criminal, as well for the hearing and determining of Pleas betwixt party and party, and to award Execution thereon, as for the Examining, hearing and puniſhing of Criminal Offences ac<g ref="char:EOLhyphen"/>cording to the Acts and Laws of the Province, ſo far as the power of a Juſtice of Peace does extend. As alſo to nominate and appoint Conſtables and other proper and neceſſary Officers amongſt them.</p>
+            <p>
+               <hi>And be it further Enacted by the Authority aforeſaid,</hi>
+            </p>
+            <p>
+               <note place="margin">Penalty for ſelling ſtrong drink to In<g ref="char:EOLhyphen"/>dians.</note> That no Perſon or Perſons whomſoever, ſhall directly or indirectly Sell, Truck, Barter, or give to any <hi>Indian,</hi> any Strong Beer, Ale, Cyder, Perry, Wine, Rhum, Brandy or other Strong Liquors, by what name or names ſoever called or known, on pain of forfeiting the Sum of <hi>Forty Shillings</hi> for every Pint, and proportionably for any greater or leſſer quantity ſo Sold, Truckt, Bartered, given or delivered to any <hi>Indian,</hi> directly or indirectly as aforeſaid, upon Conviction thereof be<g ref="char:EOLhyphen"/>fore a Juſtice of the Peace, where the penalty does not exceed <hi>Forty Shillings:</hi> And if it exceed that Sum, at the Seſſions of the Peace to be holden for the ſame County where the offence is committed: One Moiety of all ſuch Forfeitures to be unto Their Majeſties for and towards the ſupport of the Government, and the other Moiety to him or them that ſhall inform and proſecute the fame by Bill,
+<pb n="50" facs="tcp:95938:3" rendition="simple:additions"/>Plaint, or Information. And if the offender be unable or ſhall not forthwith pay and ſatisfy the ſaid Penalty or Forfeiture, then to be committed to the Goal of the County; there to remain until he pay and ſatisfy the ſame, or ſuffer two Months impriſonment.</p>
+            <p>
+               <hi>Provided</hi> this Act ſhall not be intended or extend to reſtrain any Act of Charity for relieving any <hi>Indian (Bona fide)</hi> in any ſudden Exigent of Faintneſs or Sickneſs, not to exceed one or two Drams; or by Preſcription of ſome Phyſician in writing, or by the allowance of a Juſtice of Peace.</p>
+            <p>
+               <hi>And</hi> for the better diſcovery of ſuch ill diſpoſed Perſons, who through greedineſs of filthy Lucre, ſhall privately Sell or deliver Strong Liquors or other Strong Drink, to any <hi>Indian</hi> or <hi>Indians</hi> (of which it is difficult to obtain poſitive Evidence other than the Accuſation of ſuch <hi>Indian</hi> or <hi>Indians</hi>) And to the intent that <hi>Murders</hi> and other outrages frequently occaſioned thereby may be prevented.</p>
+            <p>
+               <hi>It is Ordained and Enacted,</hi>
+            </p>
+            <p>
+               <note place="margin">Indian accu<g ref="char:EOLhyphen"/>ſation with concurring circumſtan<g ref="char:EOLhyphen"/>ces, to amount to a convicti<g ref="char:EOLhyphen"/>on, unleſs &amp;c</note> That the Accuſation and Affirmation of any <hi>Indian,</hi> with other con<g ref="char:EOLhyphen"/>curring circumſtances amounting to an high Preſumption,
+in the diſcretion of the Court or Juſtices, who have cognizance of the Caſe (the Accu<g ref="char:EOLhyphen"/>ſer and Accuſed being brought face to face at the time of Tryal) ſhall be accounted and held to be a legal Conviction of the Perſon ſo accuſed of giving, Selling, or delivering Wine, Rhum, or any other Strong Drink or Liquors, to ſuch <hi>Indian;</hi> Unleſs the party accuſed ſhall acquit him or her ſelf thereof upon Oath; which the Court or Juſtice reſpectively, are hereby impowred to require, and Adminiſter unto the Perſon accuſed, in form following: <hi>That is to ſay.</hi>
+            </p>
+            <q>
+               <p>
+                  <note place="margin">Form of the Oath.</note> YOU <hi>A. B.</hi> do Swear, That neither your ſelf nor any other by your order,
+general or particular, aſſent, privity, knowledge or allowance, directly or indirectly, did give, Sell or deliver any Wine, Cyder, Rhum, or other Strong Liquers or Drink, by what name or names ſoever called or known, unto the <hi>Indian</hi> by whom and whereof you are now accuſed. <hi>So help you God.</hi>
+               </p>
+            </q>
+            <p>
+               <hi>And further it is Enacted,</hi>
+            </p>
+            <p>
+               <note place="margin">Strong drink found with Indians, to be Seized.</note> That it ſhall and may be lawful to and for any Perſon or Perſons,
+to Seize any Wine, Strong Liquors or Cyder, which he or they may find in the Cuſtody of any <hi>Indian,</hi> not obtained by allowance as aforeſaid, (other than Cyder made of <hi>Fruit</hi> of their own growth) and to deliver the ſame unto the Conſtable, or one or more of the Select men of the Town, where the ſame ſhall be Seized, to and for the uſe of the poor of ſuch Town: And to apprehend ſuch <hi>Indian,</hi> and to cauſe him or her to be conveyed before the next Juſtice of the Peace, to be Examined where, and of whom they had ſuch Strong Drink.</p>
+            <p>
+               <note place="margin">Penalty for Indians con<g ref="char:EOLhyphen"/>victed of drunkenneſs.</note> 
+               <hi>And</hi> every <hi>Indian</hi> convicted of Drunkenneſs ſhall forfeit and pay unto the uſe of the poor of the Town or place where ſuch offence is committed,
+the Sum of <hi>Five Shillings,</hi> or elſe be openly Whipped by the Conſtable of ſuch Town or place, or ſome other that he ſhall procure, not exceeding <hi>Ten Laſhes,</hi> as the Juſtice of Peace before whom ſuch Conviction is, ſhall determin.</p>
+         </div>
+         <div type="act">
+            <pb n="51" facs="tcp:95938:3" rendition="simple:additions"/>
+            <head>AN ACT For the Relief of Ideots and Diſtracted Perſons.</head>
+            <p>
+               <hi>BE it Enacted by the Governour, Council, and Repreſen<g ref="char:EOLhyphen"/>tatives, in General Court Aſſembled, and by the Au<g ref="char:EOLhyphen"/>thority of the ſame,</hi>
+            </p>
+            <p>
+               <note place="margin">Select men or overſeers of the poor to make neceſſa<g ref="char:EOLunhyphen"/>ry Proviſion for the Re<g ref="char:EOLhyphen"/>lief of Ideots &amp; diſtracted perſons.</note> That <gap reason="illegible" resp="#UOM" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> and ſo often as it ſhall happen any Perſon to be naturally wanting of underſtanding,
+ſo as to be uncapable to provide for him or he ſelf; Or by the Providence of God, ſhall fall into Diſtraction and become <hi>Non compos mentis;</hi> and no Relations appear that will un<g ref="char:EOLhyphen"/>dertake the care of providing for them; Or that ſtand in ſo near a degree as that by Law they may be compelled thereto: In every ſuch caſe the Select men or overſeers of the poor of the Town or Peculiar where ſuch Perſon was born, or is by Law an Inhabitant, Be and hereby are Empowred and Enjoyned to take effectual care and make neceſſary Proviſion for the Rielef, ſupport, and ſafety of ſuch Impotent or Diſtracted Perſon, at the charge of the Town or place whereto he or She of right belongs; If the party has not Eſtate of his or her own, the incomes whereof may be ſufficient to defray the ſame: And the Juſtices of the Peace within the ſame County,
+<note place="margin">Court of quarter Seſſi<g ref="char:EOLhyphen"/>ons to order the Eſtate of ſuch perſons for improve<g ref="char:EOLhyphen"/>ment.</note> at their General Seſſions may Order and diſpoſe the Eſtate of ſuch Impotent or Diſtracted Perſon to the beſt im<g ref="char:EOLhyphen"/>provement and advantage towards his or her ſupport; as alſo the Per<g ref="char:EOLhyphen"/>ſon to any proper work or Service he or She may be capable to be imployed in, at the diſcretion of the Select men or overſeers of the poor. And where the Eſtate of any ſuch Perſon conſiſts of Houſeing or Land, in every ſuch caſe the Juſtices of the Superiour Court of Judica<g ref="char:EOLhyphen"/>ture, upon Application to them made, may and hereby are Impowred to Licence and Authorize the Select men or overſeers of the Town or place whereto ſuch Perſon belongs; or ſuch others as the ſaid Juſtices ſhall think fit, to make Sale of ſuch Houſeing or Land;
+<note place="margin">The Juſtices of the Supe<g ref="char:EOLhyphen"/>riour Court to Licence the Sale of Houſeing or Land of diſt<g ref="char:EOLhyphen"/>racted per<g ref="char:EOLhyphen"/>ſons, in caſe.</note> the produce thereof upon Sale to be ſecured, improved, and imployed to and for the uſe, relief, and ſafety of ſuch Impotent or Diſtracted Perſon (as the ſaid Juſtices ſhall direct) as long as ſuch Perſon ſhall live, or until he or She be reſtored to be of ſound mind. And the overplus (if any be) to and for the uſe of the next and right Heires of ſuch party.</p>
+            <p>
+               <hi>And</hi> the like power and Authority is hereby granted unto the Juſtices of the Superiour Court with reference to any Perſon or Perſons now under Diſtraction or <hi>Non compos mentis,</hi> as well for the ſatisfying of the charges already paſt, as for what may be future, for the Support, Re<g ref="char:EOLhyphen"/>lief, and ſafety of any ſuch Perſon.</p>
+         </div>
+         <div type="act">
+            <pb n="52" facs="tcp:95938:4" rendition="simple:additions"/>
+            <head>AN ACT, To Reſtrain the Exportation of Raw-Hides &amp; Skins out of the Province of the Maſſachuſetts-Bay, and for the better Preſervation &amp; Increaſe of Deer in the ſaid Province.</head>
+            <div type="part">
+               <head>WHEREAS the Exportation of Raw Hides and Skins out of this Province into <hi>Holland,</hi> and diverſe other Places, hath been found to be very much to the Prejudice of this Province.</head>
+               <p>For Redreſs whereof.</p>
+               <p>
+                  <hi>Be it Enacted by the Governour, Council, and Repreſentatives, in General Court Aſſembled, and by the Authority of the ſame,</hi>
+               </p>
+               <p>That from and after the firſt day of <hi>July</hi> now next enſuing, no Perſon or Perſons whatſoever, ſhall Carry, Convey, or Tranſport out of this Province, or Ship or Load on board any Veſſel whatſoever with in<g ref="char:EOLhyphen"/>tent to Carry,
+<note place="margin">Raw-hides or Skins, a<g ref="char:EOLhyphen"/>bout to be tranſported, to be forfeit<g ref="char:EOLhyphen"/>ed.</note> Convey, or Tranſport out of this Province, the Skins, or Hides, Untanned, or Undreſſed, of any ox, Steer, Bull, Cow, Heiſer, or Calfe, or of any Buck, Doe, or Fawn, under the Penalty of the for<g ref="char:EOLhyphen"/>feiture and loſs, of all ſuch Raw-Hides, and Skins, as ſhall be ſo Tranſ<g ref="char:EOLhyphen"/>ported, or Loaden with intent to be Tranſported as aforeſaid: the one Moiety thereof to Their Majeſties to be imployed towards the ſupport of the Government of this Their Majeſties Province, and the other Moiety to him or them that ſhall Seize, or ſhall inform and ſue for the ſame, in any Court of Record, within this Province, by Bill, Plaint or In<g ref="char:EOLhyphen"/>formation, wherein no Eſſoyn, Protection or Wager of Law ſhall be allowed.</p>
+               <p>
+                  <hi>Provided alwayes, And be it Enacted by the Authority aforeſaid,</hi>
+               </p>
+               <p>That it ſhall and may be Lawful for any Perſon,
+<note place="margin">Hides or Skins impor<g ref="char:EOLhyphen"/>ted, may be experted, Oath being firſt made.</note> or Perſons what<g ref="char:EOLhyphen"/>ſoever, to Ship, Load, or Tranſport out of this Province any Hides, or Skins, which have been imported into this Province, from any other Province or place whatſoever, upon Oath firſt made before the <hi>Naval</hi> Officer that the ſaid Hides, or Skins, were Imported into this Province, from ſome other Province or Place.</p>
+            </div>
+            <div type="part">
+               <pb n="53" facs="tcp:95938:4" rendition="simple:additions"/>
+               <head>
+                  <hi>And</hi> Whereas the Killing of Deer at unſeaſonable times of the Year, hath been found very much to the Prejudice of this Province, great numbers thereof having been Hunted and Deſtroyed in deep Snows when they are very Poor, and bigg with Young, the Fleſh and Skins of very little value, and the Increaſe thereof greatly hindred.</head>
+               <p>
+                  <hi>Be it therefore Enacted by the Authority aforeſaid,</hi>
+               </p>
+               <p>
+                  <note place="margin">No Deer to to be killed from the firſt of January to the firſt of July.</note> That if any Perſon or Perſons whatſoever within this Province, from and after the firſt day of <hi>January</hi> One thouſand Six hundred ninety and four, till the firſt day of <hi>July</hi> One thouſand Six hundred ninety and five, and ſo from the firſt day of <hi>January</hi> to the firſt day of <hi>July</hi> following, annually for ever hereafter, ſhall any wayes whatſoever, Kill any Buck, Doe, or Fawn, ſuch Perſon or Perſons ſhall forfeit the Sum of <hi>Forty Shillings</hi> for the firſt offence, <hi>Three Pounds</hi> for the ſecond offence, and <hi>Five Pounds</hi> for the third offence, and ſo for every offence after; One Moiety thereof unto Their Ma<g ref="char:EOLhyphen"/>jeſties to be imployed towards the ſupport of the Government of this Their Majeſties Province; and the other Moiety to him or them, that ſhall inform and ſue for the ſame in any Court of Record.</p>
+               <p>
+                  <note place="margin">Perſons not able to pay the Fine, to be ſet on work.</note> 
+                  <hi>And</hi> if any Perſon or Perſons, offending as aforeſaid, ſhall not have wherewithal to pay their Fines, they ſhall for the firſt offence work <hi>Twenty</hi> dayes, for the ſecond <hi>Thirty,</hi> and for the third offence <hi>Fifty</hi> dayes; as ſhall be directed by the Juſtices before whom the cauſe ſhall be heard and determined; to be imployed for the uſes before mentioned.</p>
+               <p>
+                  <hi>And</hi> if any Veniſon, Skin or Skins of any Buck, Doe, or Fawn, newry Killed, ſhall at any time in any of the aforeſaid Months wherein they are by this Act, Prohibited to be Killed, be found with or in poſ<g ref="char:EOLhyphen"/>ſeſſion of any Perſon or Perſons whatſoever, ſuch Perſon or Perſons ſhall be held and accounted in the Law, to be guilty of Killing Deer contrary to the intent of this Act, as fully as if it were proved againſt ſuch Per<g ref="char:EOLhyphen"/>ſon or Perſons by ſufficient witneſs <hi>Viva voce,</hi> except ſuch Perſon or Per<g ref="char:EOLhyphen"/>ſons, do bring forth, and make proof, who was the Perſon, or who were the Perſons that Killed the ſame.</p>
+               <p>
+                  <hi>Provided alſo, and it is hereby Enacted,</hi> That any Perſon or Perſons whatſoever, who ſhall Keep, or Breed, any Deer, Tame, or in any Paſke, or Iſland, it ſhall and may be lawful for any ſuch Perſon or Perſons, at any time, to Kill any Buck, Doe, or Fawn, ſo Kept or Bred: And alſo any Perſon or Perſons whatſoever to the <hi>Eaſt-ward</hi> of <hi>Piſcataqua</hi> River, have free liberty of Hunting as for<g ref="char:EOLhyphen"/>merly, any thing in this Act to the contrary notwithſtanding.</p>
+            </div>
+         </div>
+         <div type="text">
+            <pb n="54" facs="tcp:95938:5" rendition="simple:additions"/>
+            <head>AN ACT, Of Supplement and Addition to ſeveral Acts &amp; Laws of this Province.</head>
+            <p>
+               <hi>BE it Enacted by the Governour, Council, and Repre<g ref="char:EOLhyphen"/>ſentatives, in General Court Aſſembled, and by the Authority of the ſame, it is Ordained and Enacted, In Addition to the Act Entituled,</hi>
+            </p>
+            <div type="act">
+               <head>AN ACT, for the Suppreſſing of Unlicenſed Houſes, and the due Regu<g ref="char:EOLhyphen"/>lation of ſuch as are, or ſhall be Licenſed.</head>
+               <p>THAT all Innholders,
+<note place="margin">Innholders &amp;c. to be provided for the Entertain<g ref="char:EOLunhyphen"/>ment of Tra<g ref="char:EOLhyphen"/>vellers &amp;c. &amp; their hor<g ref="char:EOLhyphen"/>ſes.</note> Taverners, and common Victuallers, ſhall at all times be furniſhed with ſuitable Proviſions and Lodging for the Refreſhment and Entertainment of Strangers and Travellers, Paſ<g ref="char:EOLhyphen"/>turing, Stable Room, Hay and Provender for Horſes; on pain of be<g ref="char:EOLhyphen"/>ing deprived of their Licence; and no ſuch Licenſed Perſon ſhall Sell Oates for more than <hi>One Penny</hi> the quart.</p>
+               <p>
+                  <hi>And</hi> that no Perſon who is or ſhall be Licenſed to be an Inholder, Taverner, common Victualler, or Retailer, ſhall ſuffer any Apprentice, Servant,
+<note place="margin">Not to give Entertain<g ref="char:EOLhyphen"/>ment to Ser<g ref="char:EOLhyphen"/>vants &amp;c.</note> or Negro, to ſit drinking in his or her Houſe; or to have any manner of drink there, otherwiſe than by ſpecial Order or Al<g ref="char:EOLhyphen"/>lowance of their reſpective Maſters: On pain of forfeiting the Sum of <hi>Ten Shillings</hi> for every ſuch offence.</p>
+               <p>
+                  <hi>Nor</hi> ſhall any ſuch Licenſed Perſon, ſuffer any Inhabitant of ſuch Town where he dwells,
+<note place="margin">Nor to ſuffer Inhabitants to ſit drink<g ref="char:EOLhyphen"/>ing or Tipling</note> or coming thither from any other Town, to ſit Drinking or Tipling in his or her Houſe, or any of the dependences thereof; or to continue there above the ſpace of one Hour (other than Travellers, Perſons upon buſineſs, or extraordinary Occaſions) On the like Penalty of <hi>Ten Shillings</hi> for every offence.</p>
+               <p>
+                  <hi>And</hi> every Perſon as aforeſaid, who contrary to this Act ſhall con<g ref="char:EOLhyphen"/>tinue in any ſuch Houſe Tipling, or drinking or otherwiſe miſordering
+<pb n="55" facs="tcp:95938:5" rendition="simple:additions"/>him or her ſelf, or above the ſpace of one Hour (other than as afore<g ref="char:EOLhyphen"/>ſaid) ſhall forfeit and pay the Sum of <hi>Three Shillings</hi> and <hi>four pence,</hi> or be ſet in the Stocks not exceeding four hours time.</p>
+               <p>
+                  <hi>That</hi> no Perſon Licenſed as aforeſaid,
+<note place="margin">No perſon licenſed may ſuffer drunk<g ref="char:EOLhyphen"/>neſs or Enter<g ref="char:EOLhyphen"/>tain gueſts on the Lords day.</note> ſhall ſuffer any Perſon to Drink to drunkenneſs or exceſs in his or her houſe; nor ſhall ſuffer any Perſon as his or her gueſt to be and remain in ſuch houſe, or any the dependances thereof on the Lords day (other than Strangers, Travellers, or ſuch as come thither for neceſſary Refreſhment) on pain of forfeiting the Sum of <hi>Five Shillings,</hi> for every offence in that kind.</p>
+               <p>
+                  <hi>All</hi> Fines and Forfeitures ariſing for any of the offences before menti<g ref="char:EOLhyphen"/>oned, ſhall be,
+<note place="margin">Fines &amp; chow to be diſpoſed</note> one Moiety thereof to the uſe of the poor of the Town where the offence is committed, and the other Moiety to him or them that ſhall inform and proſecute the ſame (except where ſuch offences are pre<g ref="char:EOLhyphen"/>ſented by a Grand Jury, in ſuch caſe the whole forfeiture to be to the uſe of the Town) And every Juſtice of the Peace within his Precincts is hereby Empowred to hear and determin concerning any of the offences aforeſaid, and to reſtrain and commit the offender to Priſon,
+<note place="margin">one Juſtice to hear &amp; determin the offences afore mentioned.</note> until he pay and ſatisfy the penalty or forfeiture, or otherwiſe by warrant cauſe the ſame to be Levied by diſtreſs and Sale of the offenders goods.</p>
+               <p>
+                  <hi>And further it is Enacted,</hi>
+               </p>
+               <p>That before any Perſon ſhall receive Licence to be an Innholder,
+<note place="margin">All perſons taking Li<g ref="char:EOLhyphen"/>cence to be<g ref="char:EOLhyphen"/>come bound.</note> com<g ref="char:EOLhyphen"/>mon Victualler, Taverner or Retailer, every ſuch Perſon ſhall become bound by Recogniſcance to Their Majeſties, in the Sum of <hi>Ten Pounds,</hi> the Principal, and two Sureties in <hi>Five Pounds</hi> a piece; before one or more of the Juſtices of the quarter Seſſions. <hi>On Condition following.</hi>
+               </p>
+               <p>That is to ſay.</p>
+               <p>THE Condition of this Recogniſcance is ſuch, That whereas the above<g ref="char:EOLhyphen"/>bounden <hi>A. B.</hi> is admitted and allowed by the Juſtices in quarter Seſſions to keep a common Inn, Ale houſe or Victualling houſe,
+<note place="margin">Form of the Recogni<g ref="char:EOLhyphen"/>ſcance.</note> and to uſe common Selling of Wine, Beer, Ale, Cyder <hi>&amp;c.</hi> or to Retail, Wine, and Strong Liquors out of dores, for the ſpace of one whole year next en<g ref="char:EOLhyphen"/>ſuing, and no longer, in the now dwelling houſe of the ſaid <hi>A. B.</hi> in <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> commonly known by the Sign of and <gap reason="blank" extent="1 word">
+                     <desc> _____ </desc>
+                  </gap> no other. If therefore the ſaid <hi>A. B.</hi> during the time aforeſaid, ſhall not permit, ſuffer or have any Playing at Dice, Cards, Tables, Quoits, Loggets, Bowles, Shuffle-board, Ninepins, Billiards, or any other unlawful Game or Games in his or her Houſe, Yard, Garden, Back-ſide, or any of the dependances thereof; nor ſhall ſuffer to be or remain in his or her houſe, any Perſon or Perſons not being of his or her ordinary Houſhold or Family, on the Lords day or any part thereof contrary to Law; nor ſhall Sell any Wine, Liquors, or other Strong drink, to any Apprentices, Servants, Indians or Negros; nor ſhall ſuffer any Perſon or Perſons to be there Tipling, Drinking, or continue there after Nine of the Clock in
+<pb n="56" facs="tcp:95938:6" rendition="simple:additions"/>the night time, or otherwiſe contrary to Law: And in his or her ſaid Houſe, ſhall and do uſe, maintain and uphold good Order and Rule, and do Endeavour the due Obſervance of the Laws made for Regulation of ſuch Houſes. Then this preſent Recogniſcance to be void, or elſe to ſtand and abide in full force and Virtue.</p>
+               <p>
+                  <hi>For</hi> which Recogniſcance, the party to whom ſuch Licence is granted, ſhall pay <hi>Two Shillings,</hi>
+                  <note place="margin">Fee.</note> to be divided betwixt the Juſtice and the Clerk.</p>
+               <p>
+                  <hi>AND for the better Inſpection of Licenſed Houſes,
+<note place="margin">Tything men their power &amp; duty.</note> and the diſcovery of ſuch Perſons as ſhall preſume to Sell without Licence;</hi> The Select men in each Town reſpectively, ſhall take due care, That Tythingmen be annually choſen at the general Meeting for choiſe of Town Officers, as is by Law provided; who ſhall have power and whoſe duty it ſhall be carefully to inſpect all Licenſed Houſes and to Inform of all diſorders or miſ<g ref="char:EOLhyphen"/>demeanours, which they ſhall diſcover or know to be committed in them or any of them, to a Juſtice of the Peace or the Seſſions of the Peace within the ſame County; As alſo ſuch as ſhall Sell by Retail without Li<g ref="char:EOLhyphen"/>cence, and other diſorders or miſdemeanours committed in any ſuch Houſe: And in like manner to preſent or inform of all Idle and diſ<g ref="char:EOLhyphen"/>orderly Perſons, prophane Curſers or Swearers, Sabbath breakers and the like offenders; to the intent ſuch offences and miſdemeanors may be duely puniſhed and diſcouraged. Every of which Tythingmen ſhall be Sworn before a Juſtice of the Peace, or at the Seſſions of the Peace; to the Faithful diſcharge of his Office, in manner following.</p>
+               <p>That is to ſay.</p>
+               <q>
+                  <note place="margin">Oath.</note> 
+                  <p>YOU <hi>A. B.</hi> being choſen a Tythingman within the Town of <hi>C.</hi> for one year next enſuing and until another be choſen and Sworn in your ſtead, Do Swear that you will faithfully Endeavour and intend the duty of your Office, according to Law. <hi>So help you God.</hi>
+                  </p>
+               </q>
+               <p>Which Tythingmen ſhall have a black Staffe of two foot long,
+<note place="margin">Staffe.</note> Tip't at one end with braſs about three Inches, as a badge of their Office.</p>
+               <p>And if any Perſon being duely choſen to the ſaid Office, ſhall refuſe to take his Oath or Serve therein he ſhall forfeit and pay the Sum of <hi>Forty Shillings</hi> to the uſe of the poor of the Town whereto he belongs,
+<note place="margin">Penalty for not ſerving.</note> upon conviction of ſuch refuſal before the Juſtice of the Peace or Seſſions of the Peace, where he is ſummoned to be Sworn; Certificate being pro<g ref="char:EOLhyphen"/>duced under the hand of the Town Clerk, that ſuch Perſon was legal<g ref="char:EOLhyphen"/>ly choſen to that Office. And the ſaid forfeiture to be levied by diſ<g ref="char:EOLhyphen"/>treſs and Sale of ſuch Perſons goods, by Warrant from a Juſtice of the Peace or Seſſions of the Peace reſpectively, and delivered to the Town Treaſurer or overſeers of the Poor for the uſe aforeſaid.</p>
+               <pb n="57" facs="tcp:95938:6" rendition="simple:additions"/>
+               <p>
+                  <hi>And</hi> all Tythingmen that ſhall Inform and Proſecute for the breach of any Fenal Act,
+<note place="margin">Tythingmen allowed the benefit of In<g ref="char:EOLhyphen"/>formers.</note> ſhall have the benefit of ſuch part of the forfeiture as does by Law accrue to the Informer. And all Perſons proſecuted for breach of the Act relating to Exciſe and Retailers without Licence, the penalty whereof for one offence exceeds not <hi>Forty Shillings</hi> beſides charges, may be convicted by two ſingle Evidences upon Oath though but one to one breach of ſaid Act and both the breaches be within one Month, the Perſon accuſed or complained of, not plainly and poſitively denying the Fact.</p>
+               <p>
+                  <hi>And further it is Enacted,</hi>
+               </p>
+               <p>That the Clerk's of the Peace reſpectively in each County by di<g ref="char:EOLhyphen"/>rection of the Court, ſhall by Writt of <hi>Scire Facias,</hi>
+                  <note place="margin">Clerk of the Peace to put in Suit Re<g ref="char:EOLhyphen"/>cogniſcances where de<g ref="char:EOLhyphen"/>fault is made</note> put in Suit all ſuch Recogniſcances as ſhall be taken in Court, or before any Juſtice of the Peace for ſuch County, whereof default is made in not per<g ref="char:EOLhyphen"/>forming the Condition of the ſame; and upon Execution awarded, the Sheriff of the County is to levy the ſame, and to account for the Monyes or Eſtate received thereon, as by Law he is Obliged.</p>
+            </div>
+            <div type="act">
+               <head>And in Addition to the Act Entituled, An Act, For the Puniſhing of Criminal Offenders.</head>
+               <p>
+                  <hi>IT is Declared and Enacted ky the Authority aforeſaid,</hi>
+                  <note place="margin">Laws of Eng<g ref="char:EOLunhyphen"/>land to be attended in removing foreceable En<g ref="char:EOLhyphen"/>try &amp;c.</note> That every Juſtice of the Peace according to the power given him by the ſaid Act for the Enquiry and Removing of Forceible Ennyes and detainer; do therein proceed according to the Rules and Methods in ſuch caſe provided by the Laws of <hi>England.</hi>
+               </p>
+               <p>
+                  <hi>AND for the Preventing of Treſpaſſes by ill diſpoſed Perſons, coming upon other mens Lands, and cutting and carrying away the Wood &amp; Timber thereof, to the great hurt and damage of the Owner.</hi>
+               </p>
+               <p>
+                  <hi>It is Enacted by the Authority aforeſaid,</hi>
+                  <note place="margin">Penalty for cutting or carrying of wood or Tim<g ref="char:EOLunhyphen"/>ber from another per<g ref="char:EOLhyphen"/>ſons Land.</note>
+               </p>
+               <p>That if any Perſon or Perſons hereafter, ſhall cut or carry off any manner of Wood or Timber from another Perſon or Perſons Land, or the Commons of an other Town then which he doth belong to, without the leave or Licence of the owner or owners of the Land where ſuch
+<pb n="58" facs="tcp:95938:7" rendition="simple:additions"/>Wood or Timber ſhall be fallen, cut down or carryed off; every Per<g ref="char:EOLhyphen"/>ſon ſo offending, ſhall forfeit the Sum of <hi>Twenty Shillings,</hi> for every Tree above one Foot over, and <hi>Ten Shillings</hi> for every Tree under that bigneſs, to be recovered by due Proceſs of Law: And if any Perſon ſhall be convict of ſuch offence the Second time beſides the above damage to the party; ſhall forfeit and pay to the uſe of the poor of ſuch Town where the offence is committed the Sum of <hi>Twenty Shillings,</hi> or ſuffer one Months impriſonment. And every Juſtice of the Peace within the County, is hereby Impowred to hear and determin all offences againſt this Act, where the forfeiture does not exceed <hi>Forty Shillings.</hi>
+               </p>
+               <p>
+                  <hi>And be it further Enacted by the Authority aforeſaid,</hi>
+               </p>
+               <p>That if any Perſon or Perſons,
+<note place="margin">Penalty for receiving or buying of Negros &amp;c.</note> ſhall preſume either openly or pri<g ref="char:EOLhyphen"/>vately to receive or buy of or from any <hi>Indian Servant,</hi> or <hi>Negro,</hi> or <hi>Molatto Servant</hi> or Slave, any Goods, Wares, Merchandizes, or Provi<g ref="char:EOLhyphen"/>ſions; and it appear ſuch Goods, Wares, Merchandizes or Proviſions to have been Stol'n: Every Perſon and Perſons convicted of receiving or buying ſuch Stol'n Goods, Wares, Merchandizes or Proviſions, or any part or parcel thereof, ſhall reſtore the ſame in Specie if not altered, and the value thereof over and above, unto the party injured; Or double the value where the Goods or Proviſions ſo Stol'n are made away. And ſuch <hi>Indian, Negro</hi> or <hi>Molatto</hi> Servant or Slave ſhall be openly Whiped, not exceeding <hi>Twenty Laſhes.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <head>And in Addition to the Act Entituled, An Act, For Enabling the Treaſurer to call in the Arrears of Publick Rates, and diſcharging of Publick Debts.</head>
+               <p>
+                  <hi>IT is further Enacted,</hi> That the Select men, Conſtables and Collectors in the ſeveral Towns and Places within this Province,
+<note place="margin">Conſtables &amp;c. power about the Arrears of Publick Rates.</note> be and hereby are fully Impowred and Authorized to take and uſe the ſame Methods and Directions in all Reſpects, for the Collecting of the Arrears of all former Rates or Aſſeſsments, by making of diſtreſs or granting a Warrant of Commitment in caſe no diſtreſs can be found; as is provided and directed by the Act Entituled, <hi>An Act, For Regulating the former Aſſeſsment, and for granting an Additional Supply of Money.</hi>
+               </p>
+            </div>
+            <div type="act">
+               <pb n="59" facs="tcp:95938:7" rendition="simple:additions"/>
+               <head>And in Addition to the Act Entituled, An Act, For Regulating of Town-ſhips, Choice of Town Officers, and Setting forth their Power.</head>
+               <p>
+                  <hi>IT is further Enacted by the Authority aforeſaid,</hi> That there be annually choſen in each Town at the time,
+<note place="margin">Town Trea<g ref="char:EOLhyphen"/>ſurer how to be choſen &amp; his power.</note> and in the ſame manner, as other Town Officers; a ſuitable Perſon for Town Treaſurer, who ſhall have Power to demand and receive all Debts and dues belonging or owing to ſuch Town or the poor thereof; and to Sue for and Recover the ſame by due Proceſs of Law: And ſhall pay out ſuch Monies according to Order from the Select men or overſeers of the Poor, as they ſhall receive Inſtructions from the Town; and ſuch Treaſurer ſhall make a true account to the Town of all his Receipts and payments annually, when required:
+<note place="margin">to be under Oath.</note> Every ſuch Treaſurer to be Sworn before a Juſtice of the Peace to the faithful diſcharge of his Truſt, and ſhall have ſuch allowance for his Service, as the Town ſhall agree to.</p>
+            </div>
+            <div type="act">
+               <head>In Addition to the Act Entituled, An Act, For Eſtabliſhing of Judicatories and Courts of Juſtice within this Province.</head>
+               <p>
+                  <hi>IT appearing that the time Stated by Law for the holding of the Su<g ref="char:EOLhyphen"/>periour Court of Judicature, Court of</hi> Aſſize <hi>and general</hi> Goal <hi>delivery, in ſome Counties doth fall inconvenient in reſpect of the ſeaſon of the year, and otherwiſe.</hi>
+               </p>
+               <p>
+                  <hi>It is therefore Ordained and Enacted by the Authority aforeſaid,</hi>
+               </p>
+               <p>That the Superiour Court of Judicature,
+<note place="margin">The time for ſitting of the Superiour Court &amp;c. at Ipſwich, Kettery, Ply<g ref="char:EOLhyphen"/>mouth and Briſtol.</note> Court of Aſſize and ge<g ref="char:EOLhyphen"/>neral Goal delivery, for the County of <hi>Eſſex,</hi> to be holden at <hi>Ipſwich,</hi> be hence-forth holden upon the third <hi>Tueſday</hi> in <hi>May</hi> annually: And for the County of <hi>York,</hi> at <hi>Kettery</hi> upon <hi>Thurſday</hi> in the week imme<g ref="char:EOLhyphen"/>diately preceeding the ſitting of ſaid Court at <hi>Ipſwich:</hi> For the Counties of <hi>Plymouth, Barnſtable</hi> and <hi>Briſtol,</hi> to be holden at <hi>Plymouth,</hi> upon the ſecond <hi>Tueſday</hi> in <hi>March</hi> annually, and at <hi>Briſtol</hi> upon the ſecond <hi>Tueſday</hi> in <hi>September</hi> annually.</p>
+               <p>
+                  <hi>And it is further Enacted,</hi>
+               </p>
+               <p>That the Superiour Court of Judicature, Court of Aſſize and Ge<g ref="char:EOLhyphen"/>neral Goal delivery, for the County of <hi>Middleſex,</hi>
+                  <note place="margin">Superiour Court &amp;c. for Middle<g ref="char:EOLhyphen"/>ſex, to be held at Cambridge</note> be hence-forth holden and kept at <hi>Cambridge,</hi> the Shire Town, upon the laſt <hi>Tueſday</hi> in <hi>July,</hi> and on the laſt <hi>Tueſday</hi> in <hi>January</hi> annually, any Law uſage or cuſtom to the contrary notwithſtanding.</p>
+               <pb n="60" facs="tcp:95938:8" rendition="simple:additions"/>
+               <p>
+                  <hi>And</hi> for the better Preventing of Fraud in Cord Wood.</p>
+               <p>
+                  <hi>It is further Enacted by the Authority aforeſaid,</hi>
+               </p>
+               <p>That all Cord Wood brought into any Town and expoſed to Sale,
+<note place="margin">Meaſure of Cord Wood.</note> ſhall be four foot long one with another, and when Corded up, ſhall meaſure Eight foot in length, and four foot in height. And all Fire Wood (except Faggots) brought in Carts, ſhall be Sold after the fame Rate as Wood is Sold for by the Cord in pro<g ref="char:EOLhyphen"/>portion: And if it hold not out ſuch part of a Cord as it is Sold for, it ſhall be forfeited; one half thereof to the party injured, who ſhall Inform and Proſecute for the ſame before a Juſtice of the Peace within the ſame County, and the other half to the uſe of the poor of the Town where it is expoſed to Sale.</p>
+               <trailer>FINIS.</trailer>
+            </div>
+         </div>
+      </body>
+   </text>
+</TEI>
